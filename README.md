@@ -30,8 +30,8 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
 >Writing tests to verify that the application's logic and user interface are performing as expected, and executing those tests using the developer tools. Candidates should be able to analyze application crashes, and find common bugs such as layout errors and memory leaks. This includes working with the debuggers to step through application code and verify expected behavior.
 
 - Write and execute a local JVM unit test
-  - [ ] [[Fragmented Podcast] Episodeo 78 Ten Testing Strategies with Michael Bailey](http://fragmentedpodcast.com/episodes/78/) 
-  - [ ] Getting Started with Testing 
+  - [X] [[Fragmented Podcast] Episodeo 78 Ten Testing Strategies with Michael Bailey](http://fragmentedpodcast.com/episodes/78/) 
+  - [X] Getting Started with Testing 
     - [ ] [Android Developer Training][testing_and_debuggin_getting_started_testing]
     - [ ] [Udacity Course Software Testing][testing_and_debuggin_udacity_course]
     - [ ] [Treehouse Testing in Android Course][treehouse_testing_course]
@@ -63,22 +63,22 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
 - [ ] Debug and fix an activity lifecycle issue
    - [ ] [[Android Developer Site] Debug your App](https://developer.android.com/studio/debug/index.html)
 - [ ] Debug and fix an issue binding data to views
-    - [ ] [[Android Developer Site] Debug your App](https://developer.android.com/studio/debug/index.html)
+    - [X] [[Android Developer Site] Debug your App](https://developer.android.com/studio/debug/index.html)
 
 #### Application User Interface (UI) and User Experience (UX)
 >Implementation of the visual and navigational components of an application's design. This includes constructing layouts–using both XML and Java code–that consist of the standard framework UI elements as well as custom views. Candidates should have a working knowledge of using view styles and theme attributes to apply a consistent look and feel across an entire application. Understanding of how to include features that expand the application's audience through accessibility and localization may also be required.
 
-- [ ] Mock up the main screens and navigation flow of the application
+- [] Mock up the main screens and navigation flow of the application
   - [ ] [[Udacity Course] Developing Android Apps Lesson: Completing the UI - Accessibility](https://www.udacity.com/course/new-android-fundamentals--ud851)
   - [ ] [[Udacity Course] Developing Android Apps Lesson: Completing the UI - Polishing the UI](https://www.udacity.com/course/new-android-fundamentals--ud851)
-   - [ ] [[Code Labs Android] Using ConstraintLayout to design your views
+   - [X] [[Code Labs Android] Using ConstraintLayout to design your views
 ](https://codelabs.developers.google.com/codelabs/constraint-layout/#0)
   
 - [ ] Describe interactions between UI, background task, and data persistence
-- [ ] Construct a layout using XML or Java code
-  - [ ] [ [Techotopia] Creating an Android User Interface in Java Code](http://www.techotopia.com/index.php/Creating_an_Android_User_Interface_in_Java_Code)
-- [ ] Create a custom view class and add it to a layout
-  - [ ] [[Team Treehouse Course] Custom Views in Android](https://teamtreehouse.com/library/custom-views-in-android)
+- [X] Construct a layout using XML or Java code
+  - [X] [ [Techotopia] Creating an Android User Interface in Java Code](http://www.techotopia.com/index.php/Creating_an_Android_User_Interface_in_Java_Code)
+- [-] Create a custom view class and add it to a layout
+  - [-] [[Team Treehouse Course] Custom Views in Android](https://teamtreehouse.com/library/custom-views-in-android)
 - [ ] Implement a custom application theme
   - [ ] [[Android Developer Page] Styles and Themes](https://developer.android.com/guide/topics/ui/themes.html)
   - [ ] [[CodePath* Page] Developing Custom Theme](https://guides.codepath.com/android/Developing-Custom-Themes)
